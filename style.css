@@ -176,6 +176,10 @@ height: 112px;
     width: 172.391px;
     padding-top: 20px;
 }
+.opt1{
+    border: none;
+   
+}
 .class1{
     display: flex;
     justify-content: space-around;
@@ -218,7 +222,13 @@ height: 112px;
 .hend{
     background-color: #E5FAF8;
     height: 650px;
-    background-image: url("https://www.docplanner.com/favicon/safari-pinned-tab.svg");
+    background-image: url(https://salwa-essid.github.io/docplanner/logo.png);
+    background-repeat: no-repeat;
+    background-size: 450px 450px;
+    background-position-x: 60px;
+    background-position-y: 300px;
+    
+    
     
 
 }
